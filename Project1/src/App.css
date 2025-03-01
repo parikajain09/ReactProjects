@@ -1,12 +1,11 @@
 h1{
-  font-weight: 700;
+ 
   font-size: 500px;
   margin: 50px;
   margin-bottom: 30px;
   font-family: 'Times New Roman', Times, serif;
-
-  color: blue;
- background-color:bisque;
+  background-color: aqua;
+ 
 } 
  
 input{
