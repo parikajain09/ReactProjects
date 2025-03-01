@@ -1,4 +1,6 @@
-function AppName(){
-return <h1 className="fw-bolder">Todo App</h1>
+import styles from "./AppName.module.css";
+
+function AppName() {
+  return <h1 className={styles.todoHeading}>Todo App</h1>;
 }
-export default AppName
+export default AppName;

@@ -1,6 +1,5 @@
-function TodoItem2() {
-  let todoName = "Go to college"
-  let todoDate ="25-06-2025"
+const TodoItem = ({todoName, todoDate}) =>{
+  
   return(
     <div class="container">
         
@@ -21,4 +20,5 @@ function TodoItem2() {
   )
 
 }
-export default TodoItem2
+
+export default TodoItem;
