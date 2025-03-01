@@ -9,7 +9,7 @@ return(
             <input type="date" />
           </div>
           <div class="col-2">
-            <button type="button" class="btn btn-success kg-button">
+            <button type="button" class="btn btn-success kg-buttons">
               Add
             </button>
           </div>

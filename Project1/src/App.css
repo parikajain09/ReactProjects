@@ -1,13 +1,14 @@
 h1{
   font-weight: 700;
-  font-size: 45px;
-  margin: 10px;
-  margin-bottom: 20px;
+  font-size: 500px;
+  margin: 50px;
+  margin-bottom: 30px;
   font-family: 'Times New Roman', Times, serif;
-  color: aqua;
-  background-color: black;
-}
 
+  color: blue;
+ background-color:bisque;
+} 
+ 
 input{
   width: 100%;
 }
@@ -22,4 +23,10 @@ input{
 
 .kg-button{
   min-width: 80px;
+}
+
+.kg-buttons{
+margin-right: 113px;
+min-width: 80px;
+
 }
